@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Philmon
 - 👀 I’m interested in web and smart phone apps development
-- 🌱 I’m currently learning appleSeedsbootcamp
+- 🌱 I’m currently learning at appleSeedsbootcamp
 
 
 <!---
